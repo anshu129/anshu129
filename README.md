@@ -2,15 +2,15 @@
 <h3 align="center">Building the Future, One Commit at a Time</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **Rubik's Cube Solver**
+- 🔭 I’m currently working on **Burp Suite Extension**
 
-- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Malware Analysi**
 
-- 👯 I’m looking to collaborate on **Machine Learning Project**
+- 👯 I’m looking to collaborate on **Machine Learning Project & CTF**
 
-- 🤝 I’m looking for help with **Implementing complex algorithms for a data science project**
+- 🤝 I’m looking for help with **Finding Vulnerabilities in a Website**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development & Machine Learning**
 
 - 📫 How to reach me **129deepanshusharma@gmail.com**
 
