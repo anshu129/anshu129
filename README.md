@@ -2,15 +2,15 @@
 <h3 align="center">Building the Future, One Commit at a Time</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **Burp Suite Extension**
+- 🔭 I’m currently working on **Burp Suite Extension to improve the workflow of a manual pentester**
 
-- 🌱 I’m currently learning **Malware Analysi**
+- 🌱 I’m currently learning **Thick Client exploitation**
 
-- 👯 I’m looking to collaborate on **Machine Learning Project & CTF**
+- 👯 I’m looking to collaborate on **Bug bounty**
 
-- 🤝 I’m looking for help with **Finding Vulnerabilities in a Website**
+- 🤝 I’m looking for help with **performing red teaming including devloping and investigation of malwares**
 
-- 💬 Ask me about **Web Development & Machine Learning**
+- 💬 Ask me about **Cyber Security**
 
 - 📫 How to reach me **129deepanshusharma@gmail.com**
 
