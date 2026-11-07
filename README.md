@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Bug bounty**
 
-- 🤝 I’m looking for help with **performing red teaming including devloping and investigation of malwares**
+- 🤝 I’m looking for help with **perform red teaming including devloping and investigation of malwares**
 
 - 💬 Ask me about **Cyber Security**
 
